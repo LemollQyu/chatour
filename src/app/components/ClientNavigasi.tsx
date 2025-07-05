@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { User } from "@supabase/supabase-js";
-import Logout from "./Logout";
+//import Logout from "./Logout";
 import { useAutoLogout } from "../hooks/useAutoLogut";
 
 type Props = {
